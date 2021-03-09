@@ -1,1 +1,1 @@
-# recepies.txt
+# recepies
